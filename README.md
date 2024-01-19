@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Isaac Song's Website
+
+I am creating this website to showcase the work I created and allow others to connect with me.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

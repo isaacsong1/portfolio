@@ -16,4 +16,4 @@ function main() {
 	const scene = new THREE.Scene();
 }
 
-main();
+// main();

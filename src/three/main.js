@@ -1,5 +1,9 @@
 //! Main File for three.js
 // Could be separated into different files and folders
+import * as THREE from 'three';
+import { FontLoader } from 'three/addons/loaders/FontLoader.js';
+import { ParametricGeometry } from 'three/addons/geometries/ParametricGeometry.js';
+import { TextGeometry } from 'three/addons/geometries/TextGeometry.js';
 
 function main() {
 

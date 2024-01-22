@@ -4,6 +4,8 @@ import React from 'react'
 // https://www.zixianjia.com/ (Simple, nice dark color, Good spacing and font)
 // https://ndrewgood.com/ (minimalistic, like the random pastel colors)
 // https://verlichen.com/ (scrolling, nice gray background)
+// https://www.cedricith.com/about (scrolling, nice about page, animations)
+
 
 // Three js: Need to test local server -> npx vite
 // next session: create jsx components

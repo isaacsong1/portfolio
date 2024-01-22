@@ -16,6 +16,11 @@ import React from 'react'
 // https://www.greg-wolff.com/ (nice three background)
 // Figma links
 // https://tisealatise.webflow.io/ (smooth animations)
+// Lyft links
+// https://www.yukiasakura.com/ (simple, elegant design)
+// Shopify links
+// http://cordellyee.com/ (nice design and showcase of projects/experience)
+
 
 // Three js: Need to test local server -> npx vite
 // next session: create jsx components

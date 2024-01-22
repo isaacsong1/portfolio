@@ -14,6 +14,8 @@ import React from 'react'
 // https://www.pacolui.com/ (text loading)
 // Airbnb links
 // https://www.greg-wolff.com/ (nice three background)
+// Figma links
+// https://tisealatise.webflow.io/ (smooth animations)
 
 // Three js: Need to test local server -> npx vite
 // next session: create jsx components

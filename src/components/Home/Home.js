@@ -12,6 +12,8 @@ import React from 'react'
 // https://www.yichenxie.com/ (minimalistic, nice coloring, navigation bar)
 // Curated links
 // https://www.pacolui.com/ (text loading)
+// Airbnb links
+// https://www.greg-wolff.com/ (nice three background)
 
 // Three js: Need to test local server -> npx vite
 // next session: create jsx components

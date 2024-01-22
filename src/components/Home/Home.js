@@ -9,7 +9,9 @@ import React from 'react'
 // https://rocky.framer.website/ (apple-like design, nice cards and styling)
 // Microsoft links
 // https://www.yutongzhang.me/ (apple avatar)
-
+// https://www.yichenxie.com/ (minimalistic, nice coloring, navigation bar)
+// Curated links
+// https://www.pacolui.com/ (text loading)
 
 // Three js: Need to test local server -> npx vite
 // next session: create jsx components

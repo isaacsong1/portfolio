@@ -3,7 +3,7 @@ import './App.css';
 import { BoxGeometry, Mesh, MeshStandardMaterial, PerspectiveCamera, Scene, WebGLRenderer }from 'three';
 
 function App() {
-  // https://www.youtube.com/watch?v=DPl34H2ISsk TUTORIAL
+  // https://www.youtube.com/watch?v=DPl34H2ISsk
   // Create Canvas
   const scene = new Scene();
   const camera = new PerspectiveCamera(
@@ -13,6 +13,16 @@ function App() {
     1000
   );
 
+  const cube = new Mesh();
+
+  const geometry = new BoxGeometry();
+
+  const material = new MeshStandardMaterial();
+
+  cube.geometry = geometry;
+  cube.material = material;
+
+  scene.add(cube);
 
   // Render
   const renderer = new WebGLRenderer({ alpha: true });

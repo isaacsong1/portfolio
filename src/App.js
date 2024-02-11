@@ -4,6 +4,9 @@ import { BoxGeometry, Mesh, MeshStandardMaterial, PerspectiveCamera, Scene, WebG
 
 /* Idea Box
 
+
+  Hobby Page:
+    
 */
 
 function App() {

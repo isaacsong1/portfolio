@@ -6,7 +6,9 @@ import { BoxGeometry, Mesh, MeshStandardMaterial, PerspectiveCamera, Scene, WebG
 
 
   Hobby Page:
-    
+    Climbing wall (idle pose, spinning)
+      (PC) On-click: open a section to the right. Can have general information on climbing.
+      (phone): open a section down
 */
 
 function App() {

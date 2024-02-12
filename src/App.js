@@ -5,6 +5,9 @@ import { BoxGeometry, Mesh, MeshStandardMaterial, PerspectiveCamera, Scene, WebG
 /* Idea Box
   Home page:
 
+  Projects page:
+    Floating symbols of what the idea of the project is (Movie: popcorn, film...)
+
   Hobby Page:
     Climbing wall (idle pose, spinning)
       (PC) On-click: open a section to the right. Can have general information on climbing.

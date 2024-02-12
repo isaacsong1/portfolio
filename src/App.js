@@ -11,6 +11,8 @@ import { BoxGeometry, Mesh, MeshStandardMaterial, PerspectiveCamera, Scene, WebG
       (phone): open a section down
     Keyboard
       On Click can open up the keyboard into individual parts, but can just be regular
+    Games
+      Floating game logos
 */
 
 function App() {

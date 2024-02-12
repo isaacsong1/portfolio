@@ -9,6 +9,8 @@ import { BoxGeometry, Mesh, MeshStandardMaterial, PerspectiveCamera, Scene, WebG
     Climbing wall (idle pose, spinning)
       (PC) On-click: open a section to the right. Can have general information on climbing.
       (phone): open a section down
+    Keyboard
+      On Click can open up the keyboard into individual parts, but can just be regular
 */
 
 function App() {

@@ -3,7 +3,7 @@ import './App.css';
 import { BoxGeometry, Mesh, MeshStandardMaterial, PerspectiveCamera, Scene, WebGLRenderer }from 'three';
 
 /* Idea Box
-
+  Home page:
 
   Hobby Page:
     Climbing wall (idle pose, spinning)

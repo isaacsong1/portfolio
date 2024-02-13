@@ -4,9 +4,13 @@ import { BoxGeometry, Mesh, MeshStandardMaterial, PerspectiveCamera, Scene, WebG
 
 /* Idea Box
   Home page:
+    Apple Avatar hopefully (if its allowed)
+    Maybe add a contact bar to reach my socials
 
   Projects page:
     Floating symbols of what the idea of the project is (Movie: popcorn, film...)
+    
+    Below Projects can be symbols of languages (test blender skills)
 
   Hobby Page:
     Climbing wall (idle pose, spinning)

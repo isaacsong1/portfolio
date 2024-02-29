@@ -20,6 +20,8 @@ import { BoxGeometry, Mesh, MeshStandardMaterial, PerspectiveCamera, Scene, WebG
       On Click can open up the keyboard into individual parts, but can just be regular
     Games
       Floating game logos
+
+    Start with regular website, no 3d. Need for applications.
 */
 
 function App() {

@@ -22,6 +22,9 @@ import { BoxGeometry, Mesh, MeshStandardMaterial, PerspectiveCamera, Scene, WebG
       Floating game logos
 
     Start with regular website, no 3d. Need for applications.
+
+  Contact Page:
+    Maybe email submission straight to me or logos hyperlinked to specific websites
 */
 
 function App() {

@@ -6,6 +6,7 @@ import { BoxGeometry, Mesh, MeshStandardMaterial, PerspectiveCamera, Scene, WebG
   Home page:
     Apple Avatar hopefully (if its allowed)
     Maybe add a contact bar to reach my socials
+    Tech stack: Carousel of icons moving (maxmimum of x icons at a time)
 
   Projects page:
     Floating symbols of what the idea of the project is (Movie: popcorn, film...)
